@@ -1,12 +1,12 @@
-# :books: Hoje eu aprendi - Interface
-<p>Meu primeiro exercício sobre Interface</p>
+# :books: Hoje eu aprendi - JFrame
+<p>Meus primeiros exercícios sobre JFrame</p>
 
 <br>
 <br>
 
 ## :blue_book: Objetivo
 
-O objetivo desse exercício é fundamentar através da prática os conceitos de Interface usando Java.
+O objetivo desse exercício é fundamentar através da prática os conceitos de JFrame usando Java.
 
 <br>
 
