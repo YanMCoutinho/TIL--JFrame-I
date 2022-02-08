@@ -14,4 +14,4 @@ O objetivo desse exercício é fundamentar através da prática os conceitos de 
 
 As tecnológias utilizadas foram:
 
-![Badge](https://img.shields.io/static/v1?label=&message=Java&color=FF4040&style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
